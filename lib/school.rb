@@ -6,6 +6,6 @@ class School
     @name = name 
   end
   def say_name
-    puts school = School.new("Hazelwood Central")
+    puts "#{@name}"
 end
 end
