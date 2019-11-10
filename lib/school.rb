@@ -8,4 +8,4 @@ class School
   def say_name
     puts "#{@name}"
 end
-end
+
