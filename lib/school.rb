@@ -1,6 +1,6 @@
 class School
     def intitalize(name)
     @name = name 
-    school = School.new("Hazelwood Central")
+    puts school = School.new("Hazelwood Central")
 end
 end
